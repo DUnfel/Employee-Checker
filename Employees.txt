@@ -1,0 +1,11 @@
+John  - Car Mechanic
+
+Dan - Car Inspector
+
+Mike - EV Mechanic
+
+Jeniffer - Janitor
+
+Donald - Receptionist
+
+Activity log:
