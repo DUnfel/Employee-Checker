@@ -7,9 +7,7 @@ the big CON of this, is the security because if other employees know other peopl
 which can also be unprofessional and annoying for some employees, therefore this is my first project and im looking forward to update it in order to prevent from such.
 '''
 
-import time
 from datetime import datetime, date
-
 
 time = datetime.now()
 code = input("Input your code:")
